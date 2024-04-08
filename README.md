@@ -7,3 +7,5 @@ Esse site foi desenvolvido usando as seguintes tecnologias:
 ### JAVASCRIPT -> Eventos (addEventListener) e funções;
 
 -> Um projeto simples, mas que foi muito bom de se desenvolver para colocar em prática o aprendizado!
+
+-> Deploy: https://vitorob.github.io/Mario-Bros/
